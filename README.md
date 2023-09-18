@@ -1,6 +1,6 @@
-## Olá, eu sou Arthur Godoy
-- 👋 Hi, I’m Arthur Godoy;
-- 👀 I’m interested on a internship in java;
+## Olá.
+- 👋 Estudante de Análise e Desenvolvivento de Sistemas (2/5);
+- 👀 Tenho interesse em um estágio em JAVA;
 - 🌱 I’m currently learning java.
 <header
 <div>
