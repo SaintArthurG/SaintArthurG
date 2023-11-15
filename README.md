@@ -1,6 +1,6 @@
-## Olá.
-- 👋 Estudante de Análise e Desenvolvivento de Sistemas (2/5);
-- 👀 Tenho interesse em um estágio em JAVA;
+## Hey you.
+- 👋 I'm studying analysis and systems development at Univesity (2/5);
+- 👀 I'm looking for new challenges, like a Java internship;
 - 🌱 I’m currently learning java.
 <header
 <div>
