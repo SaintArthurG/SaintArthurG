@@ -11,7 +11,7 @@
   ##
   
   <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintarthurg&layout=compact&langs_count=16&theme=blue-green"/> 
-  <h4>Studying</h4>
+  <h4>studying:</h4>
   <div style="display: inline_block">   
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
