@@ -22,7 +22,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </div>
   <div>
-  <h4>Contato:</h4>
+  <h4>Contact:</h4>
   <a href="https://www.linkedin.com/in/arthur-godoy-56a986221" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
           
