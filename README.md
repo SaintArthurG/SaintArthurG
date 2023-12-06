@@ -1,7 +1,7 @@
 ## Hey you.
 - 👋 I'm studying analysis and systems development at Univesity (2/5);
-- 👀 I'm looking for new challenges, like a Java internship;
-- 🌱 I’m currently learning java.
+- 👀 I'm looking for new challenges;
+- 🌱 I’m currently specializing in java.
 <header
 <div>
   <a href="https://github.com/SaintArthurG">    
