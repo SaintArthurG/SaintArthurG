@@ -20,6 +20,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-line-wordmark.svg" />
   </div>
   <div>
   <h4>Contact:</h4>
