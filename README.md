@@ -1,5 +1,5 @@
 ## Hey you.
-- 👋 I'm studying analysis and systems development at Univesity (5/5);
+- 👋 I'm studying analysis and systems development at Univesity (4/5);
 - 👀 I'm looking for new challenges;
 - 🌱 I’m currently specializing in java.
 <header
