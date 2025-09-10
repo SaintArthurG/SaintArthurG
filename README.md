@@ -11,7 +11,7 @@
   ##
   
   <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintarthurg&layout=compact&langs_count=16&theme=blue-green"/> 
-  <h4>Stacks:</h4>
+  <h4>Habilidades:</h4>
   <div style="display: inline_block">   
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />           
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
@@ -24,7 +24,7 @@
   
   </div>
   <div>
-  <h4>Contact:</h4>
+  <h4>Contato:</h4>
   <a href="https://www.linkedin.com/in/arthur-godoy-56a986221" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
           
