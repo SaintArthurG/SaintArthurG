@@ -4,8 +4,6 @@
 - 🌱 Atualmente estou me especializando em java.
 <header
   
-  ##
-  
   <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintarthurg&layout=compact&langs_count=16&theme=blue-green"/> 
   <h4>Habilidades:</h4>
   <div style="display: inline_block">   
