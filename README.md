@@ -1,7 +1,5 @@
 ## Hey you.
-- 👋 Formado em análise e desenvolviento de sistemas pela Universidade Cátolica de Brasília;
-- 👀 Estou procurando novos desafios na área de desenvolvimento web;
-- 🌱 Atualmente estou me especializando em java.
+- 👋 Bacharelando em Engenharia de Redes de Comunicação na Universidade de Brasília;
 <header
   
   <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintarthurg&layout=compact&langs_count=16&theme=blue-green"/> 
